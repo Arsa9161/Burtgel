@@ -1,272 +1,276 @@
 {
-  "-NFyZD0VWwBci9Klwo-d": {
-    "className": "САБ",
-    "course": "3",
-    "email": "nymaan1020@gmail.com",
-    "firstname": "Нямсамбуу",
-    "lastname": "Жамбажамц",
-    "phoneNumber": 96098011,
-    "studentCode": "B200970024"
-  },
-  "-NFyaADHxRIEVF7V3WFs": {
-    "className": "Кибер Аюулгүй Байдал",
-    "course": "1",
-    "email": "lkjj3775@gmail.com",
-    "firstname": "Чингис",
-    "lastname": "Буянтогтох",
-    "phoneNumber": 80695636,
-    "studentCode": "B221870059"
-  },
-  "-NFyaLDEuxzwpGGvS-6L": {
-    "className": "Кибер Аюулгүй Байдал",
-    "course": "1",
-    "email": "davkharbayr05@gmail.com",
-    "firstname": "Давхарбаяр",
-    "lastname": "Нэмэхбаяр",
-    "phoneNumber": 91813533,
-    "studentCode": "B221870028"
-  },
-  "-NFyarNDYTlFTZ8SkVh7": {
-    "className": "Хиймэл оюун ухаан",
-    "course": "1",
-    "email": "baasansurenbuguunee@gmail.com",
-    "firstname": "Баасансүрэн",
-    "lastname": "Бүгүүнээ",
-    "phoneNumber": 95538470,
-    "studentCode": "B221960011"
-  },
-  "-NFybZDX7rJQ--UiveXS": {
-    "className": "МС",
-    "course": "3",
-    "email": "anujin.lha@gmail.com",
-    "firstname": "Анужин",
-    "lastname": "Лхагвасүрэн",
-    "phoneNumber": 94333838,
-    "studentCode": "B200920040"
-  },
-  "-NFycjxjjSZRyXPWEHug": {
-    "className": "Хиймэл оюун ухаан ",
-    "course": "1",
-    "email": "tugsocir.nest@gmail.com",
-    "firstname": "Төгс-Очир",
-    "lastname": "Батжаргал ",
-    "phoneNumber": 80722727,
-    "studentCode": "B221960060"
-  },
-  "-NFyg-PZmPJIW9J-LNCt": {
-    "className": "САБ 2+2",
-    "course": "2",
-    "email": "idereeidermonh@gmail.com",
-    "firstname": "Идэрмөнх",
-    "lastname": "Лхагвасамбуу",
-    "phoneNumber": 99520012,
-    "studentCode": "B210970089"
-  },
-  "-NFz3Csc472PkPHs7tfR": {
-    "className": "IT",
-    "course": "4",
-    "email": "darklight749@gmail.com",
-    "firstname": "Bilguun",
-    "lastname": "Badrakh",
-    "phoneNumber": 94790790,
-    "studentCode": "B190930048"
-  },
-  "-NFzSiPJoNR-X8ljeyyP": {
-    "className": "Програм хангамж ",
-    "course": "1",
-    "email": "buyabuyka090@gmail.com",
-    "firstname": "Буяндэлгэр ",
-    "lastname": "Түвшинжаргал ",
-    "phoneNumber": 95531031,
-    "studentCode": "B222270052"
-  },
-  "-NFzbhRWMf1U3N7yGqNU": {
-    "className": "Мэдээлэл технологи",
-    "course": "2",
-    "email": "batmunkhsukhbaatar0816@gmail.com",
-    "firstname": "Батмөнх",
-    "lastname": "Сүхбаатар",
-    "phoneNumber": 91310627,
-    "studentCode": "B210930011"
-  },
-  "-NFzfpv-I6bKKmO3zy56": {
-    "className": "КУ",
-    "course": "1",
-    "email": "togoldor.bayrtsolmon@gmail.com",
-    "firstname": "Төгөлдөр",
-    "lastname": "Баярцолмон",
-    "phoneNumber": 99911039,
-    "studentCode": "B221910003"
-  },
-  "-NFzjw3rWMI9-buYHADR": {
-    "className": "IS",
-    "course": "1",
-    "email": "Munkht46@gmail.com",
-    "firstname": "Munkhtuya",
-    "lastname": "Uurtsaikh",
-    "phoneNumber": 86242122,
-    "studentCode": "B221930012"
-  },
-  "-NFzwo5stPp1gOXn896t": {
-    "className": "Кибер аюулгүй байдал",
-    "course": "1",
-    "email": "benkhoch@gmail.com",
-    "firstname": "Энх-Оч",
-    "lastname": "Батболд",
-    "phoneNumber": 99291015,
-    "studentCode": "B221870535"
-  },
-  "-NFzxkUEWQft11HpUyT3": {
-    "className": "програм хангамж",
-    "course": "2",
-    "email": "turbadrah1201@gmail.com",
-    "firstname": "Төрбадрах",
-    "lastname": "Нэргүй",
-    "phoneNumber": 86216959,
-    "studentCode": "B210910023"
-  },
-  "-NG--kP2F5gLRjCR2Q6L": {
-    "className": "Электрон системийн программ хангамж",
-    "course": "2",
-    "email": "biligtochir13@gmail.com",
-    "firstname": "Билигт-Очир",
-    "lastname": "Батмөнх",
-    "phoneNumber": 86798000,
-    "studentCode": "B211070100"
-  },
-  "-NG-2ChHyC4qOiXEsgje": {
-    "className": "ПХ",
-    "course": "2",
-    "email": "thetsogu@gmail.com",
-    "firstname": "Цогбаяр",
-    "lastname": "Баярмаа",
-    "phoneNumber": 95640432,
-    "studentCode": "B210910860"
-  },
-  "-NG-8ZvoLZE7Pz15sXx3": {
-    "className": "Програм хангамжийн инженерчлэл",
-    "course": "1",
-    "email": "altaizandanbileg@gmail.com",
-    "firstname": "Алтай",
-    "lastname": "Гантөмөр",
-    "phoneNumber": 90292709,
-    "studentCode": "B222270028"
-  },
-  "-NG-8gjoqyxxDqMk1dQD": {
-    "className": "Програм хангамжийн инженерчлэл",
-    "course": "1",
-    "email": "bbbydriver@gmail.com",
-    "firstname": "Алтай",
-    "lastname": "Гантөмөр",
-    "phoneNumber": 90292709,
-    "studentCode": "B222270028"
-  },
-  "-NG-8oEwGZsblMjzbPOk": {
-    "className": "Програм хангамжийн инженерчлэл",
-    "course": "1",
-    "email": "bbyyydriver@gmail.com",
-    "firstname": "Алтай",
-    "lastname": "Гантөмөр",
-    "phoneNumber": 90292709,
-    "studentCode": "B222270028"
-  },
-  "-NG-NRCDWUbVxleLJZNy": {
-    "className": "Програм хангамж ",
-    "course": "2",
-    "email": "erdeneculuundlgn@gmail.com",
-    "firstname": "Дөлгөөн ",
-    "lastname": "Эрдэнэчулуун ",
-    "phoneNumber": 94967177,
-    "studentCode": "B210910004"
-  },
-  "-NG-TM0pyUU9TqzxHwBZ": {
-    "className": "Робот ба хиймэл оюун ухаан",
-    "course": "1",
-    "email": "superiornova068@gmail.com",
-    "firstname": "Өлзийбаяр",
-    "lastname": "Энхбаатар",
-    "phoneNumber": 99610186,
-    "studentCode": "B223000013"
-  },
-  "-NG-UeNppSGa8MPLmL0F": {
-    "className": "Мэдээллийн систем",
-    "course": "2",
-    "email": "i.mjavkha@gmail.com",
-    "firstname": "Баяржавхлан",
-    "lastname": "Намжилдорж",
-    "phoneNumber": 80774480,
-    "studentCode": "B210920009"
-  },
-  "-NG-aVJEWjn9ANkccYTy": {
-    "className": "Өгөгдлийн ухааны инженерчлэл",
-    "course": "2",
-    "email": "juragatarman@gmail.com",
-    "firstname": "Juragat",
-    "lastname": "Arman",
-    "phoneNumber": 85440376,
-    "studentCode": "B211900001"
-  },
-  "-NG-isqH3dtNRo4YaMt0": {
-    "className": "Программ хангамж",
-    "course": "2",
-    "email": "chrollo75@gmail.com",
-    "firstname": "Жүгдэрнамжил",
-    "lastname": "Нямдорж",
-    "phoneNumber": 88588984,
-    "studentCode": "B210910011"
-  },
-  "-NG-rRZ4h6Ljftaxpbl5": {
-    "className": "Мэдээллийн технологи ",
-    "course": "2",
-    "email": "batzorigaltansh@gmail.com",
-    "firstname": "АЛТАНСҮХ ",
-    "lastname": "Батзориг ",
-    "phoneNumber": 88124140,
-    "studentCode": "B210930040"
-  },
-  "-NG0Rumnvv_GRypNnemj": {
-    "className": "КАБ2+2",
-    "course": "1",
-    "email": "isanugman8889@gmail.com",
-    "firstname": "Иса",
-    "lastname": "Нугман",
-    "phoneNumber": 99518889,
-    "studentCode": "B221870503"
-  },
-  "-NG0U4hCRkMt9arSLfou": {
-    "className": "Компьютер сүлжээ",
-    "course": "1",
-    "email": "bayarjavhlan_natsgaa@yahoo.com",
-    "firstname": "Баяржавхлан",
-    "lastname": "Нацагдорж",
-    "phoneNumber": 95972262,
-    "studentCode": "B221860011"
-  },
-  "-NG0gmEihyamWXEA-rsS": {
-    "className": "Ai",
-    "course": "3",
-    "email": "itgel0518@icloud.com",
-    "firstname": "Itgl",
-    "lastname": "Oyunbold",
-    "phoneNumber": 95625171,
-    "studentCode": "B201910001"
-  },
-  "-NG0lJ3w8M-INOSD8XS0": {
-    "className": "компьютерийн ухаан",
-    "course": "1",
-    "email": "dorjderemnymdorj81@gmail.com",
-    "firstname": "нямдорж",
-    "lastname": "дорждэрэм",
-    "phoneNumber": 86200627,
-    "studentCode": "B221910009"
-  },
-  "-NG0lJ51cUFLHppMQ_MN": {
-    "className": "компьютерийн ухаан",
-    "course": "1",
-    "email": "dorjderemnymdorj81@gmail.com",
-    "firstname": "нямдорж",
-    "lastname": "дорждэрэм",
-    "phoneNumber": 86200627,
-    "studentCode": "B221910009"
-  }
+  "users": [
+    {
+      "-NFyZD0VWwBci9Klwo-d": {
+        "className": "САБ",
+        "course": "3",
+        "email": "nymaan1020@gmail.com",
+        "firstname": "Нямсамбуу",
+        "lastname": "Жамбажамц",
+        "phoneNumber": 96098011,
+        "studentCode": "B200970024"
+      },
+      "-NFyaADHxRIEVF7V3WFs": {
+        "className": "Кибер Аюулгүй Байдал",
+        "course": "1",
+        "email": "lkjj3775@gmail.com",
+        "firstname": "Чингис",
+        "lastname": "Буянтогтох",
+        "phoneNumber": 80695636,
+        "studentCode": "B221870059"
+      },
+      "-NFyaLDEuxzwpGGvS-6L": {
+        "className": "Кибер Аюулгүй Байдал",
+        "course": "1",
+        "email": "davkharbayr05@gmail.com",
+        "firstname": "Давхарбаяр",
+        "lastname": "Нэмэхбаяр",
+        "phoneNumber": 91813533,
+        "studentCode": "B221870028"
+      },
+      "-NFyarNDYTlFTZ8SkVh7": {
+        "className": "Хиймэл оюун ухаан",
+        "course": "1",
+        "email": "baasansurenbuguunee@gmail.com",
+        "firstname": "Баасансүрэн",
+        "lastname": "Бүгүүнээ",
+        "phoneNumber": 95538470,
+        "studentCode": "B221960011"
+      },
+      "-NFybZDX7rJQ--UiveXS": {
+        "className": "МС",
+        "course": "3",
+        "email": "anujin.lha@gmail.com",
+        "firstname": "Анужин",
+        "lastname": "Лхагвасүрэн",
+        "phoneNumber": 94333838,
+        "studentCode": "B200920040"
+      },
+      "-NFycjxjjSZRyXPWEHug": {
+        "className": "Хиймэл оюун ухаан ",
+        "course": "1",
+        "email": "tugsocir.nest@gmail.com",
+        "firstname": "Төгс-Очир",
+        "lastname": "Батжаргал ",
+        "phoneNumber": 80722727,
+        "studentCode": "B221960060"
+      },
+      "-NFyg-PZmPJIW9J-LNCt": {
+        "className": "САБ 2+2",
+        "course": "2",
+        "email": "idereeidermonh@gmail.com",
+        "firstname": "Идэрмөнх",
+        "lastname": "Лхагвасамбуу",
+        "phoneNumber": 99520012,
+        "studentCode": "B210970089"
+      },
+      "-NFz3Csc472PkPHs7tfR": {
+        "className": "IT",
+        "course": "4",
+        "email": "darklight749@gmail.com",
+        "firstname": "Bilguun",
+        "lastname": "Badrakh",
+        "phoneNumber": 94790790,
+        "studentCode": "B190930048"
+      },
+      "-NFzSiPJoNR-X8ljeyyP": {
+        "className": "Програм хангамж ",
+        "course": "1",
+        "email": "buyabuyka090@gmail.com",
+        "firstname": "Буяндэлгэр ",
+        "lastname": "Түвшинжаргал ",
+        "phoneNumber": 95531031,
+        "studentCode": "B222270052"
+      },
+      "-NFzbhRWMf1U3N7yGqNU": {
+        "className": "Мэдээлэл технологи",
+        "course": "2",
+        "email": "batmunkhsukhbaatar0816@gmail.com",
+        "firstname": "Батмөнх",
+        "lastname": "Сүхбаатар",
+        "phoneNumber": 91310627,
+        "studentCode": "B210930011"
+      },
+      "-NFzfpv-I6bKKmO3zy56": {
+        "className": "КУ",
+        "course": "1",
+        "email": "togoldor.bayrtsolmon@gmail.com",
+        "firstname": "Төгөлдөр",
+        "lastname": "Баярцолмон",
+        "phoneNumber": 99911039,
+        "studentCode": "B221910003"
+      },
+      "-NFzjw3rWMI9-buYHADR": {
+        "className": "IS",
+        "course": "1",
+        "email": "Munkht46@gmail.com",
+        "firstname": "Munkhtuya",
+        "lastname": "Uurtsaikh",
+        "phoneNumber": 86242122,
+        "studentCode": "B221930012"
+      },
+      "-NFzwo5stPp1gOXn896t": {
+        "className": "Кибер аюулгүй байдал",
+        "course": "1",
+        "email": "benkhoch@gmail.com",
+        "firstname": "Энх-Оч",
+        "lastname": "Батболд",
+        "phoneNumber": 99291015,
+        "studentCode": "B221870535"
+      },
+      "-NFzxkUEWQft11HpUyT3": {
+        "className": "програм хангамж",
+        "course": "2",
+        "email": "turbadrah1201@gmail.com",
+        "firstname": "Төрбадрах",
+        "lastname": "Нэргүй",
+        "phoneNumber": 86216959,
+        "studentCode": "B210910023"
+      },
+      "-NG--kP2F5gLRjCR2Q6L": {
+        "className": "Электрон системийн программ хангамж",
+        "course": "2",
+        "email": "biligtochir13@gmail.com",
+        "firstname": "Билигт-Очир",
+        "lastname": "Батмөнх",
+        "phoneNumber": 86798000,
+        "studentCode": "B211070100"
+      },
+      "-NG-2ChHyC4qOiXEsgje": {
+        "className": "ПХ",
+        "course": "2",
+        "email": "thetsogu@gmail.com",
+        "firstname": "Цогбаяр",
+        "lastname": "Баярмаа",
+        "phoneNumber": 95640432,
+        "studentCode": "B210910860"
+      },
+      "-NG-8ZvoLZE7Pz15sXx3": {
+        "className": "Програм хангамжийн инженерчлэл",
+        "course": "1",
+        "email": "altaizandanbileg@gmail.com",
+        "firstname": "Алтай",
+        "lastname": "Гантөмөр",
+        "phoneNumber": 90292709,
+        "studentCode": "B222270028"
+      },
+      "-NG-8gjoqyxxDqMk1dQD": {
+        "className": "Програм хангамжийн инженерчлэл",
+        "course": "1",
+        "email": "bbbydriver@gmail.com",
+        "firstname": "Алтай",
+        "lastname": "Гантөмөр",
+        "phoneNumber": 90292709,
+        "studentCode": "B222270028"
+      },
+      "-NG-8oEwGZsblMjzbPOk": {
+        "className": "Програм хангамжийн инженерчлэл",
+        "course": "1",
+        "email": "bbyyydriver@gmail.com",
+        "firstname": "Алтай",
+        "lastname": "Гантөмөр",
+        "phoneNumber": 90292709,
+        "studentCode": "B222270028"
+      },
+      "-NG-NRCDWUbVxleLJZNy": {
+        "className": "Програм хангамж ",
+        "course": "2",
+        "email": "erdeneculuundlgn@gmail.com",
+        "firstname": "Дөлгөөн ",
+        "lastname": "Эрдэнэчулуун ",
+        "phoneNumber": 94967177,
+        "studentCode": "B210910004"
+      },
+      "-NG-TM0pyUU9TqzxHwBZ": {
+        "className": "Робот ба хиймэл оюун ухаан",
+        "course": "1",
+        "email": "superiornova068@gmail.com",
+        "firstname": "Өлзийбаяр",
+        "lastname": "Энхбаатар",
+        "phoneNumber": 99610186,
+        "studentCode": "B223000013"
+      },
+      "-NG-UeNppSGa8MPLmL0F": {
+        "className": "Мэдээллийн систем",
+        "course": "2",
+        "email": "i.mjavkha@gmail.com",
+        "firstname": "Баяржавхлан",
+        "lastname": "Намжилдорж",
+        "phoneNumber": 80774480,
+        "studentCode": "B210920009"
+      },
+      "-NG-aVJEWjn9ANkccYTy": {
+        "className": "Өгөгдлийн ухааны инженерчлэл",
+        "course": "2",
+        "email": "juragatarman@gmail.com",
+        "firstname": "Juragat",
+        "lastname": "Arman",
+        "phoneNumber": 85440376,
+        "studentCode": "B211900001"
+      },
+      "-NG-isqH3dtNRo4YaMt0": {
+        "className": "Программ хангамж",
+        "course": "2",
+        "email": "chrollo75@gmail.com",
+        "firstname": "Жүгдэрнамжил",
+        "lastname": "Нямдорж",
+        "phoneNumber": 88588984,
+        "studentCode": "B210910011"
+      },
+      "-NG-rRZ4h6Ljftaxpbl5": {
+        "className": "Мэдээллийн технологи ",
+        "course": "2",
+        "email": "batzorigaltansh@gmail.com",
+        "firstname": "АЛТАНСҮХ ",
+        "lastname": "Батзориг ",
+        "phoneNumber": 88124140,
+        "studentCode": "B210930040"
+      },
+      "-NG0Rumnvv_GRypNnemj": {
+        "className": "КАБ2+2",
+        "course": "1",
+        "email": "isanugman8889@gmail.com",
+        "firstname": "Иса",
+        "lastname": "Нугман",
+        "phoneNumber": 99518889,
+        "studentCode": "B221870503"
+      },
+      "-NG0U4hCRkMt9arSLfou": {
+        "className": "Компьютер сүлжээ",
+        "course": "1",
+        "email": "bayarjavhlan_natsgaa@yahoo.com",
+        "firstname": "Баяржавхлан",
+        "lastname": "Нацагдорж",
+        "phoneNumber": 95972262,
+        "studentCode": "B221860011"
+      },
+      "-NG0gmEihyamWXEA-rsS": {
+        "className": "Ai",
+        "course": "3",
+        "email": "itgel0518@icloud.com",
+        "firstname": "Itgl",
+        "lastname": "Oyunbold",
+        "phoneNumber": 95625171,
+        "studentCode": "B201910001"
+      },
+      "-NG0lJ3w8M-INOSD8XS0": {
+        "className": "компьютерийн ухаан",
+        "course": "1",
+        "email": "dorjderemnymdorj81@gmail.com",
+        "firstname": "нямдорж",
+        "lastname": "дорждэрэм",
+        "phoneNumber": 86200627,
+        "studentCode": "B221910009"
+      },
+      "-NG0lJ51cUFLHppMQ_MN": {
+        "className": "компьютерийн ухаан",
+        "course": "1",
+        "email": "dorjderemnymdorj81@gmail.com",
+        "firstname": "нямдорж",
+        "lastname": "дорждэрэм",
+        "phoneNumber": 86200627,
+        "studentCode": "B221910009"
+      }
+    }
+  ]
 }
